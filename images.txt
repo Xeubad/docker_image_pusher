@@ -1,3 +1,4 @@
-netdata/netdata
-henrygd/beszel
-moonrailgun/tianji
+alpine:latest
+centos:latest
+python:latest
+bitnami/mongodb:latest
