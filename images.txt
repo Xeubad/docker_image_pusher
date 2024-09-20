@@ -1,2 +1,2 @@
-wordpress:latest
-mysql:5.7
+mysql
+owncloud
