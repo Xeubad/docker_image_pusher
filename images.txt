@@ -1,1 +1,2 @@
-sickcodes/docker-osx:latest
+sickcodes/docker-osx:big-sur
+sickcodes/docker-osx:naked
