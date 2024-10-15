@@ -1,2 +1,1 @@
-mysql
-owncloud
+sickcodes/docker-osx:latest
